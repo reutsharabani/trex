@@ -1,0 +1,6 @@
+slack_bolt
+apscheduler
+pyppeteer
+pytz
+Pillow
+imagehash
